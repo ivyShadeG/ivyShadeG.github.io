@@ -17,7 +17,7 @@
     return age;
   }
   // document.onload = function () {
-  const currAge = getAge("1987/06/27");
+  const currAge = getAge("2011/01/01");
   const ageElement = document.getElementById("age");
   console.log("Setting " + ageElement.innerHTML + " to " + currAge);
   ageElement.innerHTML = currAge;
