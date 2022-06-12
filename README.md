@@ -1,1 +1,1 @@
-See [my resume](https://tnlmarsha.github.io)
+[About Me](https://ivyShadeG.github.io)
